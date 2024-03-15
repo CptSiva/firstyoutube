@@ -1,0 +1,11 @@
+
+<web-app>
+<servlet>
+<servlet-name>RegistrationServlet</servlet-name>
+<servlet-class>com.uniquedeveloper.registration.RegistrationServlet
+</servlet-class></servlet>
+<servlet-mapping></servlet-mapping><welcome-file-list>
+
+<welcome-file>index.jsp</welcome-file>
+</welcome-file-list>
+</web-app>
